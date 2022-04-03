@@ -3,7 +3,8 @@
 [Reinforcement Learning Specialization](https://www.coursera.org/specializations/reinforcement-learning) by University of Alberta & Alberta Machine Intelligence Institute on Coursera.
 
 <p align="center"><img width="50%" src="lunar_lander.gif" /></p>
-<div align="middle"><video width="80%" controls><source src="./ImplementYourAgent.mp4" type="video/mp4"></video></div>
+
+<div align="middle"><video width="80%" controls><source src="ImplementYourAgent.mp4" type="video/mp4"></video></div>
 
 ## About this Specialization
 
